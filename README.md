@@ -16,7 +16,7 @@ The purpose of creating this keylogger was for educational purpose and help peop
     git clone https://github.com/SATYADAHAL/Keylogger.git
     cd Keylogger
     g++ keylogger.cpp -o keylogger
-    sudo ./keylogger & disown
+    sudo ./keylogger
 <b>  Note: You will need root permission to run this program.</b>
 # Decoding the log file
   Althought the file is not encoded as in encoding but it has the keystorkes as their corresponding integer value. This python script is just to convert the integer value into human redable form.
