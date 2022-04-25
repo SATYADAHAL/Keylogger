@@ -14,7 +14,7 @@ A keylogger is software/hardware that logs/stores the consecutive keystrokes mad
 The purpose of creating this keylogger was for educational purpose and help people understand the working of keylogger. I am not responsible for any misuse or damage cause by this program.You cannot use this this software to test person or company without their permission.
 # INSTALLATION
     git clone
-    cd Linux-Keylogger
+    cd Keylogger
     g++ keylogger.cpp -o keylogger
     sudo ./keylogger & disown
 <b>  Note: You will need root permission to run this program.</b>
