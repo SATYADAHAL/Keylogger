@@ -8,7 +8,7 @@ This is simple keylogger created for <b>Linux</b>. It was written in C++ and Pyt
    5. [Working of Keylogger](#working-of-keylogger)
    6. [LICENSE](https://github.com/SATYADAHAL/Keylogger/blob/main/LICENSE)
 # Keylogger
-A keylogger is software/hardware that logs/stores the consecutive keystrokes made by a computer user. Keylogger can be really dangerous because they can log the all the keystrokes like username,password,emails,credit card information etc. entered by user. Keylogger is considered to be computer malware, to be specific it is a [spyware](https://en.wikipedia.org/wiki/Spyware). I was curious how would keylogger actullay work. I did some research on linux input system and wrote my own keylogger.
+A keylogger is software/hardware that logs/stores the consecutive keystrokes made by a computer user. Keylogger can be really dangerous because they can log all the keystrokes like username,password,emails,credit card information etc. entered by user. Keylogger is considered to be computer malware, to be specific it is a [spyware](https://en.wikipedia.org/wiki/Spyware). I was curious how would keylogger actullay work. I did some research on linux input system and wrote my own keylogger.
 
 # Disclaimer
 <B>TO BE USED FOR EDUCATIONAL PUROPSES ONLY</B><BR><BR>
